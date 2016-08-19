@@ -1,0 +1,21 @@
+/** 
+Escribir el CSS necesario aqui
+*/
+.caja{
+	width: 1100px;
+	background-color: #E16419;
+	padding: 20px 10px 40px 50px;
+	margin: 50px 40px 100px 40px;
+	border-style: solid;
+	border-color:#8809D9;
+	border-width: 20px 10px;
+
+
+}
+
+#hola{
+	text-align: center;
+	border: 1px dashed #1AA748;
+	background-color:white;
+	padding: 5px 30px;
+}
